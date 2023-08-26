@@ -1,0 +1,12 @@
+{
+  "name": "Meu Node Privado",
+  "version": "1.0.0",
+  "description": "Um node privado para N8N para usar o Pipefy.",
+  "keywords": ["n8n", "pipefy"],
+  "main": "index.js",
+  "author": "Bard",
+  "license": "MIT",
+  "dependencies": {
+    "@pipefy/n8n-node-core": "^1.0.0"
+  }
+}
